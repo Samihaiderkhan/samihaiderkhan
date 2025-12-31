@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [personal portfolio site](personal portfolio site)
 
-- 💬 Ask me about **react, Tailwind css, etc.**
+- 💬 Ask me about **react,react_native, Tailwind css, etc.**
 
 - 📫 How to reach me **samiullahsamikhan290@gmail.com**
 
