@@ -11,7 +11,8 @@
 
 - 👯 I’m looking to collaborate on **some backend project**
 
-- 📝 I regularly write articles on personal portfolio site](https://samiullahkhan.vercel.app/)(personal portfolio site)
+- 📝 I regularly write articles on personal portfolio site[](https://samiullahkhan.vercel.app/)(personal portfolio site)](https://samiullahkhan.vercel.app/)
+- 📝 I regularly write articles on personal portfolio site []
 
 - 💬 Ask me about **react,react_native, Tailwind css, FireBase, Next.js etc.**
 
