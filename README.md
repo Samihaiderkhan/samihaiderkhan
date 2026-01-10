@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sami_Ullah_khan</h1>
+<h1 align="center">Hi 👋, I'm Sami_Ullah_Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samihaiderkhan&label=Profile%20views&color=0e75b6&style=flat" alt="samihaiderkhan" /> </p>
@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **some backend project**
 
-- 📝 I regularly write articles on [personal portfolio site](personal portfolio site)
+- 📝 I regularly write articles on personal portfolio site](https://samiullahkhan.vercel.app/)(personal portfolio site)
 
-- 💬 Ask me about **react,react_native, Tailwind css, etc.**
+- 💬 Ask me about **react,react_native, Tailwind css, FireBase, Next.js etc.**
 
 - 📫 How to reach me **samiullahsamikhan290@gmail.com**
-
-- ⚡ Fun fact **I think i am a vibe Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
