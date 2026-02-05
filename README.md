@@ -5,14 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samihaiderkhan" alt="samihaiderkhan" /></a> </p>
 
-- 🔭 I’m currently working on **Fully functional traveling Website**
+- 🔭 I’m currently working on **Fully functional Cross-Platform Mobile APP**
 
-- 🌱 I’m currently learning **backend frame express.js and react framework Next.js.**
+- 🌱 I’m currently learning **backend frame express.js and react framework Next.js AND Firebase**
 
 - 👯 I’m looking to collaborate on **some backend project**
 
-- 📝 I regularly write articles on personal portfolio site[](https://samiullahkhan.vercel.app/)(personal portfolio site)](https://samiullahkhan.vercel.app/)
-- 📝 I regularly write articles on personal portfolio site []
+- 📝 I regularly write articles on personal portfolio site[(https://samiullahkhan.vercel.app/)](https://samiullahkhan.vercel.app/)
 
 - 💬 Ask me about **react,react_native, Tailwind css, FireBase, Next.js etc.**
 
